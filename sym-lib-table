@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AHsoundbox")(type "KiCad")(uri "${KIPRJMOD}/AHsoundbox.kicad_sym")(options "")(descr ""))
+)
